@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"ping"
+	"github.com/Wang/ping"
 )
 
 func main() {
